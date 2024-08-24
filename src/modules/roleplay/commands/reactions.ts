@@ -63,10 +63,10 @@ const rolePlayData = {
     description: "Kuscheln!",
   },
   nervous: {
-    title: "user1 ist nervös! <:tuubaa_nervous:1242487594051309608>",
-    title2: "user1 ist nervös! <:tuubaa_nervous:1242487594051309608>",
-    text: `user2, user1 ist nervös wegen dir! <:tuubaa_nervous:1242487594051309608>`,
-    text2: "user1 ist nervös! <:tuubaa_nervous:1242487594051309608>",
+    title: "user1 ist nervös! <a:tubasweat:1274443794892197932>",
+    title2: "user1 ist nervös! <a:tubasweat:1274443794892197932>",
+    text: `user2, user1 ist nervös wegen dir! <a:tubasweat:1274443794892197932>`,
+    text2: "user1 ist nervös! <a:tubasweat:1274443794892197932>",
     description: "Nervös!",
   },
   no: {
@@ -75,6 +75,13 @@ const rolePlayData = {
     text: `user2, user1 NEIN! <:TuubaaNo:1142165294719176824>`,
     text2: "user1 sagt NEIN! <:TuubaaNo:1142165294719176824>",
     description: "Nein!",
+  },
+  yes: {
+    title: "user1 sagt JA! <:TuubaaYes:1142165358178992128>",
+    title2: "user1 sagt JA! <:TuubaaYes:1142165358178992128>",
+    text: `user2, user1 JA! <:TuubaaYes:1142165358178992128>`,
+    text2: "user1 sagt JA! <:TuubaaYes:1142165358178992128>",
+    description: "Ja!",
   },
   cheers: {
     title: "Prost user2! 🥂",
@@ -107,6 +114,13 @@ const rolePlayData = {
       "cool! <:wowwirklich:1196825321761157170><:coolermoment2:1196824022130892830>",
     description: "Cool!",
   },
+  thumbsup: {
+    title: "user1 gibt ein daumen hoch! <:TuubaaThumbsUp:1244353269271236751>",
+    title2: "user1 gibt einen daumen nach hoch! <:TuubaaThumbsUp:1244353269271236751>",
+    text: `user2, user1 Gibt dir ein like <:TuubaaThumbsUp:1244353269271236751>`,
+    text2: "user1 stimmt zu! <:TuubaaThumbsUp:1244353269271236751>",
+    description: "Ja!",
+  }
   hug: {
     title: "Umarmung für user2! <:TuubaaSquish:1225857635958394951>",
     title2: "Umarmung! <:SleepyTuba:1120695781557538816>",
