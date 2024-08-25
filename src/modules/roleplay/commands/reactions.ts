@@ -120,7 +120,7 @@ const rolePlayData = {
     text: `user2, user1 Gibt dir ein like <:TuubaaThumbsUp:1244353269271236751>`,
     text2: "user1 stimmt zu! <:TuubaaThumbsUp:1244353269271236751>",
     description: "Ja!",
-  }
+  },
   hug: {
     title: "Umarmung für user2! <:TuubaaSquish:1225857635958394951>",
     title2: "Umarmung! <:SleepyTuba:1120695781557538816>",
